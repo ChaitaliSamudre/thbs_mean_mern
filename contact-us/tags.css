@@ -1,0 +1,14 @@
+body{
+    border: 5px yellow solid;
+}
+p{
+    font-size: large;
+}
+#thbs-head{
+    background: aqua
+}
+#thbs-foot{
+height: 200px;
+border: 1px solid green;
+background: aqua
+}
